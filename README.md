@@ -43,6 +43,7 @@ Is only visible after completing the traps mission.
 
 # Items
 1. Shield was implemented as an item.
+2. Khufu's sculpture was renamed to Sculpture
 
 # Weapons
 1. Shield was not implemented as a weapon.
