@@ -164,7 +164,7 @@ class Rope:Item {
                 print("You threw the rope but with too little strength to reach the sculpture.. Try again!")
             case 5..<10:
                 print("You looped the rope around the sculpture, pulled and grabbed it with your hands. Put it in your bag, it may come in handy later")
-                let item = g.findItemByName(pName: "Khufu's Sculpture")
+                let item = g.findItemByName(pName: "Sculpture")
                 if let s = item as? Sculpture {
                     s.collectable = true
                 }
