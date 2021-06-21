@@ -182,7 +182,7 @@ class Sculpture:Item {
 
     init(location:Room) {
         collectable = false
-        super.init(location: location, name: "Khufu's Sculpture")
+        super.init(location: location, name: "Sculpture")
     }
 
     // Provides access to a new room

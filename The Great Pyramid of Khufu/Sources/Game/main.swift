@@ -128,11 +128,11 @@ class MyGame:Game {
 
     func createScultpure() {    //Upon defeating Khufu boss, sculpture is revealed and becomes collectable
 
-        guard let grandGallery = getRoomByName(name: "The Grand Gallery") else {
+        guard let kingsChamber = getRoomByName(name: "The Kings Chamber") else {
             return
         }
 
-        let sculpture:Sculpture = Sculpture(location: grandGallery)
+        let sculpture:Sculpture = Sculpture(location: kingsChamber)
         
         self.items.append(sculpture)
     }

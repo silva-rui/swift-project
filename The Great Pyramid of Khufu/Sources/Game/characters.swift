@@ -91,7 +91,7 @@ class Player: Character {     //Used to initialize any of the 3 choices for main
      }
      if(item.location.name == currentRoom.name) {
         if let s = item as? Sculpture {
-         if(s.collectable) {
+         if(!s.collectable) {
             print("The sculpture is too high for you to pick it up. You need something to bring it down.")
             return;
          }
