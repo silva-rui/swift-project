@@ -56,7 +56,8 @@ Is only visible after completing the traps mission.
 
 2. Traps puzzle
 
-* The first trap will not depend on the players vision since they don't have this stats.
+* The first trap will not depend on the players vision since they don't have this stats. 
+  And he will not need any rope to survive this misison.
   The player will need to select wheter he wants to move right, left, backwards, forwards
   when the first trap is triggered since the boulder will fall randomly in one of these directons.
 
@@ -87,12 +88,18 @@ The interactions are used as commmands the following commands were added:
   * Damage:80
 
 # Point systems
-* 3 stars: Game completed with 3 lifes + all the rooms were discovered 
-  + all the items were collected + all the missions were commpleted
+* 3 stars is achieved with the following conditions: 
+   - Game completed with 3 lives 
+   - Every room discovered  
+   - Every items collected  
+   - Every mission commpleted
 
 # Bonus features / Easter eggs
-* We did some ascii art and uploaded an hieroglyphs picture that can also be used 
- during the game for better visibility.
+* We did some ascii art 
+* Provided an hieroglyphs alphabet picture this can be used during the game for better visibility of the symbols
+* Provided a UML diagram to visualise our object-oriented class design
+* This game is based on the history of King Khufu and its pyramid during the Ancient Egypt but also about some general culture of the ancient egyptians.
+  A great amount of researches were done to have enough knowledge to create the whole story as close as possible to the reality just with a few other inspirations.
 
 # Automatic Game Mode
 Not implemented
@@ -101,4 +108,4 @@ Not implemented
 Not implemented
 we tried to use Jazzy to generate a documentation based on the comments.
 Since none of us was working under MacOS and we didn't manage to install it on
- Linux, we have just added comments to the code.
+Linux, we have just added comments to the code.
