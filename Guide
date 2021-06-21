@@ -1,0 +1,857 @@
+Welcome to the Great Pyramid of Khufu!
+You are currently in the largest and most complex Egyptian pyramid ever built.
+If you are here, then it is because you are probably interested in its mysteries or its precious value.
+But don't forget the famous legend that whoever once entered here has never come back.
+Are you ready to risk this adventurous journey?
+Good luck and be prepared to confront all its mysterious challenges!
+
+Type 'help' to see available commands.
+Please choose your character [1-3]
+1.Greek historian
+2.Greek archeologist
+3.Tomb Raider
+2
+OK! Your name is Perseus and you are a Greek archeologist.
+Type: Player
+Name: Perseus
+Health: 200
+Damage: 20
+
+
+Encounter with security staff at Entrance
+As you get into the entrance you notice a couple guards blocking your way.
+Perseus: If I want to go any further, I'll need to knock these guys out
+
+1. Fight
+2. Run Away
+
+Your choice: 2
+You start walking away but...
+Perseus: NO!! I didn't come all this way to quit so soon!
+
+1. Fight
+2. Run Away
+
+Your choice: 1
+
+You will fight!
+Perseus: Dammit, I have no weapons! This will be a hard fight.
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 2
+
+
+Medium Attack!
+Security guard managed to avoid your attack.
+
+Your health: 200
+Security guard's health: 100
+
+
+Security guard is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Security guard managed to hit you lightly
+Security guard deals 10 damage
+
+Your health: 190
+Security guard's health: 100
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 20 damage on Security guard!
+
+Your health: 190
+Security guard's health: 80
+
+
+Security guard is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Security guard managed to hit you lightly
+Security guard deals 10 damage
+
+Your health: 180
+Security guard's health: 80
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 20 damage on Security guard!
+
+Your health: 180
+Security guard's health: 60
+
+
+Security guard is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 2
+You try to block the attack but Security guard is too strong. You only weaken the attack by a small amount
+Security guard deals 16 damage
+
+Your health: 164
+Security guard's health: 60
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 2
+
+
+Medium Attack!
+You perform an attack inflicting 30.0 damage on Security guard!
+
+Your health: 164
+Security guard's health: 30
+
+
+Security guard is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Security guard managed to hit you lightly
+Security guard deals 10 damage
+
+Your health: 154
+Security guard's health: 30
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 20 damage on Security guard!
+
+Your health: 154
+Security guard's health: 10
+
+
+Security guard is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You managed to completely avoid the attack!
+Small amount of health restored
+
+Your health: 169
+Security guard's health: 10
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 20 damage on Security guard!
+
+Security guard has died! You have won this Battle
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> story
+
+    The entrance room is the starting room from your adventure of The Great Pyramid of Khufu. 
+    You should be very cautious from the beginning to the end because remember what the legend states... 
+    Whoever once entered here has never come back. Battles, puzzles but also traps that will lead to your death 
+    can be some of the challenges that you can encounter inside of The Great Pyramid of Khufu
+
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> look
+
+    In this room, there is normally security staff who block people from entering further into the Great Pyramid of Khufu. 
+    They have a small table to place the map of the Pyramid, a torch and their weapons such as the Khopesh.
+    Interestingly you observe one of the walls has the digit 4 engraved into it.
+
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> collect khopesh
+The Khopesh was added to your bag!
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> collect torch
+The Torch was added to your bag!
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> collect map
+The Map was added to your bag!
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> use map
+
+                _________________ 
+               |                 |
+               |    The Kings    |_________________
+               |     Chamber                       |
+               |                  __________       |
+               |_________________|         |  The  |
+                                           |       |
+                                           |       |
+                                           | Grand |
+                                           |       |
+                            _______________|       |
+                            |        Gallery       |
+                            |      ________________|
+                            |      |
+                      ______|      |_____       ____________________
+                      |                  |     |                    |
+                      |     The Queens   |_____|         The        |
+                      |                   _____                     |
+                      |     Chamber      |     |      Entrance      |__
+                      |__________________|     |                     __
+                                               |____   _____________| 
+                                                   |   |
+                                                   |   |
+                                                   |   |
+                                                   |   |
+                                                  /   /
+                               __________________/   /___ 
+                              |                          |                   
+                              |           The            |
+                              |       Subterranean       |
+                              |          Chamber         |
+                              |__________________________|
+                                                
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> use torch
+You lit up the torch!
+
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> use khopesh
+
+You swing the Khopesh around a few times...
+Perseus: Alright, enough fooling around, I should keep focused.
+
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> go South
+Perseus: Ouchh!!
+A snake just attacked you as you entered the room.
+
+You are in The Subterranean Chamber
+
+Exits:
+- North
+
+> interact
+There's a snake and a spider in this room. Watch out for these little guys they might try to bite you.
+Here's what you could do:
+1. Kill Snake
+2. Kill Spider
+3. Quit
+Your choice: 1
+You have crushed the snake with a rock.
+Perseus: Ouchh!!
+A spider just attacked you as you entered the room.
+
+You are in The Subterranean Chamber
+
+Exits:
+- North
+
+> interact
+There's a snake and a spider in this room. Watch out for these little guys they might try to bite you.
+Here's what you could do:
+1. Kill Snake
+2. Kill Spider
+3. Quit
+Your choice: 2
+You have crushed the snake with a rock.
+
+You are in The Subterranean Chamber
+
+Exits:
+- North
+
+> story
+
+    The Ancient Egyptians developed an interesting method to multiply numbers.It is an algorithm entitled 
+    Egyptian Multiplication. Usually, they used addition to get the answer to a multiplication problem with the help of 
+    one multiplication table, which is a 2 times table. This table has a multiplier that increases two times for every step 
+    and the result gets doubled by two every time as well till the desired multiplicand.
+
+
+You are in The Subterranean Chamber
+
+Exits:
+- North
+
+> look
+
+    The subterranean chamber usually has spiders and snakes within it. It is better to try and kill them as fast as possible. 
+    One of the walls has the number 8 engraved. You also observe a chest that is normally locked, a password is needed to open it. 
+    Maybe it has important items that are important in this adventure
+
+
+You are in The Subterranean Chamber
+
+Exits:
+- North
+
+> go North
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> go West
+
+Encounter with Cobra at Queens Chamber
+As soon as you enter the room, you hear a loud hissing.
+A ferocious cobra rises from its nest and you are shocked with its enormous size as the cobra slithers torwards you.
+Perseus: Wha..What? How can it be so big? Oh no, it is coming...
+The Cobra tries to strike you but you move away on time. It hit its head against the wall and boulders are now blocking the way back.
+
+1. Fight
+2. Run Away
+
+Your choice: 2
+You rush to the door!
+You are trapped here. The passage is blocked
+
+1. Fight
+2. Run Away
+
+Your choice: 1
+
+You will fight!
+You must choose a weapon if you don't want to die. These are the ones you have:
+[0]: Khopesh | Damage: 60
+Your choice: 0
+
+You have now equipped the Khopesh
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 2
+
+
+Medium Attack!
+You perform an attack inflicting 90.0 damage on Cobra!
+
+Your health: 139
+Cobra's health: 410
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 2
+Cobra hit you really hard. If only you had a shield to protect yourself.
+Cobra deals 50 damage
+
+Your health: 89
+Cobra's health: 410
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 89
+Cobra's health: 350
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Cobra managed to hit you lightly
+Cobra deals 25 damage
+
+Your health: 64
+Cobra's health: 350
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 64
+Cobra's health: 290
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You managed to completely avoid the attack!
+Small amount of health restored
+
+Your health: 79
+Cobra's health: 290
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 79
+Cobra's health: 230
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Cobra managed to hit you lightly
+Cobra deals 25 damage
+
+Your health: 54
+Cobra's health: 230
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 54
+Cobra's health: 170
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Cobra managed to hit you lightly
+Cobra deals 25 damage
+
+Your health: 29
+Cobra's health: 170
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 29
+Cobra's health: 110
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You dodged a bit late and Cobra managed to hit you lightly
+Cobra deals 25 damage
+
+Your health: 4
+Cobra's health: 110
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Your health: 4
+Cobra's health: 50
+
+
+Cobra is about to attack you! What are you going to do?
+
+1. Dodge
+2. Block
+
+Your choice: 1
+You managed to completely avoid the attack!
+Small amount of health restored
+
+Your health: 19
+Cobra's health: 50
+
+How will you attack?
+
+1. Light Attack
+2. Medium Attack
+3. Heavy Attack
+4. Charge
+5. Change Weapon
+Your choice: 1
+
+
+Light Attack!
+You perform a fast attack inflicting 60 damage on Cobra!
+
+Cobra has died! You have won this Battle
+With a lot of effort you remove a few smaller boulders from the passage.
+Perseus: Alright, now I can go back if I need to.
+A rumbling sound comes from the other end of the room. A passage has just been revealed.
+Perseus: Curious.. where could that lead to?
+
+You are in The Queens Chamber
+
+Exits:
+- West
+- East
+- North
+
+> go West
+
+You are in The Hidden Room
+
+Exits:
+- East
+
+> story
+
+    Egyptian hieroglyphs are the formal writing system of the Ancient Egyptians. 
+    These combine logographic,  syllabic and alphabetic elements with a total of some 1,000 distinct characters. 
+    There are also some signs which look the same but the meaning of it is according to the context and can be interpreted in diverse ways.
+    It also makes it harder to decipher some hieroglyphs but sometimes it can be worth it the time spent to decipher the complete message 
+    to gather relevant information. 
+    
+
+You are in The Hidden Room
+
+Exits:
+- East
+
+> look
+
+    Looks like the hidden room of The Queens chamber has hieroglyphs in one whole wall perhaps with important messages. 
+    There is normally also a spear and a rope on the floor.    
+
+
+You are in The Hidden Room
+
+Exits:
+- East
+
+> collect rope
+The Rope was added to your bag!
+
+You are in The Hidden Room
+
+Exits:
+- East
+
+> collect spear
+The Spear was added to your bag!
+
+You are in The Hidden Room
+
+Exits:
+- East
+
+> go East
+
+You are in The Queens Chamber
+
+Exits:
+- West
+- East
+- North
+
+> go North
+
+You are in The Grand Gallery
+
+Exits:
+- South
+
+> play
+
+Oh no! You just step into a wire which triggered a boulder to fall down react fast which direction do you want to move to survive!
+
+1. left     2. right    3. forwards     4.backwards
+Select: 4
+Rest in peace.
+Watch out! You just lost one life. Remaining lives: 2
+You lost one life and you have respawned at the entrance with full health
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> go West
+
+You are in The Queens Chamber
+
+Exits:
+- West
+- East
+- North
+
+> go North
+
+You are in The Grand Gallery
+
+Exits:
+- South
+
+> story
+
+    This room is very long and the legends state that this is one of the most dangerous rooms to get across without dying. 
+    However, this is the crucial room as well that leads you to The Kings Chamber, so you would need to survive possible 
+    dangerous traps to enter the King's Chamber. Good luck you will need it!
+    
+
+You are in The Grand Gallery
+
+Exits:
+- South
+
+> look
+
+    In the Grand Gallery, you notice the great length of this walkway, making your way slowly, you notice how some stones of the floor look different than the rest. 
+    Take precautions in trying to avoid these. You can also find a weapon in this Grand Gallery the mace-ax.
+
+
+You are in The Grand Gallery
+
+Exits:
+- South
+
+> play
+
+Oh no! You just step into a wire which triggered a boulder to fall down react fast which direction do you want to move to survive!
+
+1. left     2. right    3. forwards     4.backwards
+Select: 2
+Wow, this one was close congrats you survived!
+
+Careful two different stones of the floor behind you just broke down! 
+This seems like another trap, please choose wisely the next stones you want to step into without dying. 
+They have different shapes this can be meaningful for your decision.  
+
+      A     B     C
+     _______________              
+    |   |    |      | 
+3   |   |    |      |            
+    |___|____|______|
+    |     |   |     |
+2   |     |   |     |
+    |_____|___|_____|             
+    |     |    |    |
+1   |     |    |    |
+    |_____|____|____|
+
+
+Enter the coordinates of the row 1.
+Possible coordinates: A1, B1, C1
+Select: B1
+Oh no! The stone just brok down and you died
+Watch out! You just lost one life. Remaining lives: 1
+You lost one life and you have respawned at the entrance with full health
+
+You are in The Entrance
+
+Exits:
+- South
+- West
+
+> go West
+
+You are in The Queens Chamber
+
+Exits:
+- West
+- East
+- North
+
+> go North
+
+You are in The Grand Gallery
+
+Exits:
+- South
+
+> play
+boulder:  left
+
+
+Oh no! You just step into a wire which triggered a boulder to fall down react fast which direction do you want to move to survive!
+
+1. left     2. right    3. forwards     4.backwards
+Select: 3
+Congrats you took a good decision and are still alive!
+
+Careful two different stones of the floor behind you just broke down! 
+This seems like another trap, please choose wisely the next stones you want to step into without dying. 
+They have different shapes this can be meaningful for your decision.  
+
+      A     B     C
+     _______________              
+    |   |    |      | 
+3   |   |    |      |            
+    |___|____|______|
+    |     |   |     |
+2   |     |   |     |
+    |_____|___|_____|             
+    |     |    |    |
+1   |     |    |    |
+    |_____|____|____|
+
+
+Enter the coordinates of the row 1.
+Possible coordinates: A1, B1, C1
+Select: C1
+Oh no! The stone just brok down and you died
+Watch out! You just lost one life. Remaining lives: 0
+Game over!
+
+Thanks for playing! Bye!
