@@ -7,9 +7,16 @@ No Third-Party API's were used.
 # Changes from initial Description
 
 # Players stats: 
-All the players have same stats and they do not have any defense stats neither good or bad vision
+None of the players have defense stats neither good or bad vision
+
+1. Herodotus and Perseus:
 * Health : 200
 * Damage : 20
+
+Easy mode with the strongest player:
+2. Ramesses:
+* Health : 200
+* Damage : 100
 
 
 # Common enemies
