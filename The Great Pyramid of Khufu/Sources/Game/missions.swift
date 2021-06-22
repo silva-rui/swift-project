@@ -257,7 +257,9 @@ class Missions {
 
         //First trap
         
-        print("boulder:  \(randomBoulder)")
+        //This print was just for testing purposes
+        //print("boulder:  \(randomBoulder)")
+
         print("""
                        _.-------._
                      ,'           `.
