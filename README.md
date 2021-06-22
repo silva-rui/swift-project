@@ -4,6 +4,23 @@ This file contains information about the game The Great Pyramid of Khufu.
 # Build Instructions
 No Third-Party API's were used.
 
+# Known bugs & issues
+There were some issues as of the initial submission:
+
+1. [FIXED]: Inability to collect item **Khufu's Sculpture**, because it contains a space (c.f detailed explanation)
+* Name changed to **Sculpture**
+
+>**Detailed explanation**: Throughout the game the player has to collect items using the command: `collect <item>`. However one of our items which is crucial to get to the end has a space in it (Khufu's Sculpture) and because the Parser class (InteractiveFictionFramework) splits the input command into different tokens, it's impossible to get that item. The game expects you to type `collect Khufu's Sculpture` but since the Parser class is using the space character as a separator, it's not possible to get that item because it will result in `collect Khufu's` which doesn't correspond to the correct name. In our offline version, we changed the name to Sculpture to make it less confusing. Are we allowed to push that small fix, or at least use it in our live demo?
+
+2. [FIXED]: Location of item **Khufu's Scultpure** differed from project description
+* Location changed from **The Grand Gallery** to **The King's Room** to match project description
+
+3. [FIXED]: No effect after item **Rope** getting caught in one of the cavities
+* Rope is now removed from bag
+* The game ends
+
+As of the second submission (22/06/2021) there are no major bugs known
+
 # Changes from initial Description
 
 # Players stats: 
