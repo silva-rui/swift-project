@@ -14,6 +14,7 @@ None of the players have defense stats neither good or bad vision
 * Damage : 20
 
 Easy mode with the strongest player:
+
 2. Ramesses:
 * Health : 200
 * Damage : 100
