@@ -170,7 +170,8 @@ class Rope:Item {
                 }
             default:
                 print("You ended up throwing the rope too hard and it got stuck in one of the cavities.")
-                //remove rope from bag
+                g.player.bag.removeItem(name: "Rope")
+                g.finished = true
         }
     }
 }
@@ -261,6 +262,17 @@ class Bag:Item {
         }
 
         return found
+    }
+
+    public func removeItem(name: String) {
+        guard let removed = getItemByName(name: name) else {
+            return
+        }
+
+        if let index = self.items.firstIndex(of: removed) {
+            self.items.remove(at: index)
+        }
+        
     }
 
     /// Output textual representation of the bag's content
