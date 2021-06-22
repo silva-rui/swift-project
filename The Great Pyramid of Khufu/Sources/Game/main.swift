@@ -230,7 +230,6 @@ class MyGame:Game {
         for i in self.items {
             // If the item is not in the bag, the player has not collected everything
             if(!player.bag.contains(item: i) && !(i==self.player.bag)) {
-                print(i.name)
                 collectedEveryObject = false
             }
         }
